@@ -1,0 +1,34 @@
+- FinalShell -- SSH 客户端
+- Putty -- SSH 客户端
+- WinScp -- windows Scp工具
+- Navicat --Mysql
+- 内网通 -- 文件传输
+- Postman --Api调试工具
+- ApowerREC --录屏
+- Acunetix Trial -- 漏洞扫描
+- Http Logs Viewer -- Log分析
+- WinMTR -- 网络诊断工具
+- 飞书、腾讯会议、zoom、teams -- 团队协作软件
+- EdrawMind、XMind ZEN -- 思维导图
+- 亿图图示 -- 架构图工具
+- FortiClient -- VPN
+- TablePlus 、 Navicat、HeidiSql -- Mysql管理器
+- LDAPSoft Ldap Browser -- LDAP查看器
+- 7z -- 压缩工具
+- ShowDoc --- API 文档写作
+- PHPStorm -- PHP IDE
+- sublime -- 文本编辑器
+- vscode -- 微软的开源代码编辑器
+- Notepad++ -- 轻量编辑工具
+- Composer -- php包管理器 https://www.phpcomposer.com/
+- Gitlab -- 基于Git的仓库管理系统
+- Jumpserver -- 跳板机
+- Vmware -- 虚拟机软件
+- Oracel VM -- VirtualBox 虚拟机 
+- Vagrant -- 虚拟环境管理器，借助virtualbox/vm 使用
+- Workbench --  Mysql数据库建模工具 https://dev.mysql.com/downloads/workbench/  
+- 傲软录屏 -- 录屏软件
+- Laracasts -- laravel之家 https://laracasts.com/
+- Fiddler -- 抓包工具
+- Git --  版本控制工具 https://git-scm.com/
+- Npm -- node包管理器 https://www.npmjs.com.cn/
