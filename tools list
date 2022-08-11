@@ -1,4 +1,5 @@
-FinalShell -- SSH 客户端
+# FinalShell -- SSH 客户端
+## PHP >= 8.0.2
 Putty -- SSH 客户端
 WinScp -- windows Scp工具
 Navicat --Mysql
