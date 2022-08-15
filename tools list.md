@@ -32,3 +32,10 @@
 - Fiddler -- 抓包工具
 - Git --  版本控制工具 https://git-scm.com/
 - Npm -- node包管理器 https://www.npmjs.com.cn/
+- 24x7 -- 全面监控网站和应用性能 https://www.site24x7.cn/
+- cortex -- 跟踪工具 https://www.paloaltonetworks.cn/cortex
+- rapid7 -- 安全工具 https://www.binqsoft.com/solutions/rapid7
+- wikipedia -- 查发布 https://en.wikipedia.org/wiki/Laravel
+
+
+
