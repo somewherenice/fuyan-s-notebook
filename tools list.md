@@ -36,6 +36,8 @@
 - cortex -- 跟踪工具 https://www.paloaltonetworks.cn/cortex
 - rapid7 -- 安全工具 https://www.binqsoft.com/solutions/rapid7
 - wikipedia -- 查发布 https://en.wikipedia.org/wiki/Laravel
+- zabbix -- 网络监视管理系统 server端C语言，web管理端php
+- ![image](https://user-images.githubusercontent.com/21279002/184791070-b29e1d87-15a1-4bc5-baee-e32dcddeb2eb.png)
 
 
 
