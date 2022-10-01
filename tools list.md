@@ -1,14 +1,38 @@
 - FinalShell -- SSH 客户端
 - Putty -- SSH 客户端
+- golang 资料站 https://studygolang.com/ https://golangtc.com/ http://docscn.studygolang.com/doc/ https://topgoer.com/ https://golang.google.cn/ref/spec
+- 微软form https://www.office.com/launch/forms?auth=2
+- powerautomate -- 微软低代码 https://www.microsoft.com/zh-cn/cloudproductivity/powerplatform/powerautomate.aspx
+- azure文档 https://learn.microsoft.com/en-us/azure/azure-functions/
+- outlook calendar 文档 https://learn.microsoft.com/en-us/graph/api/resources/calendar?view=graph-rest-1.0
+- https://learn.microsoft.com/en-us/graph/api/resources/calendar?view=graph-rest-1.0
+- https://learn.microsoft.com/en-us/graph/outlook-calendar-concept-overview
+- 原型协作工具 摩客 https://user.mockplus.cn/signin?next=http://app.mockplus.cn/team/oxznzijbfc
 - WinScp -- windows Scp工具
+- 技术文章站 http://learn.lianglianglee.com/
+- 技术资源下载站 https://shikey.com/
+- zimbra api https://wiki.zimbra.com/wiki/Zimbra_REST_API_Reference:Get_Calendar https://wiki.zimbra.com/wiki/Zimbra_REST_API_Reference:Import_Appointments
 - Navicat --Mysql
+- 金蝶ERP https://www.kingdee.com/
+- 电商ERP https://www.shopex.cn/
+- 远程办公控制软件 https://www.teamviewer.cn/cn/
 - 内网通 -- 文件传输
 - Postman --Api调试工具
+- builtwith https://builtwith.com/
+- 系统架构师考试资料 https://github.com/xxlllq/system_architect
 - ApowerREC --录屏
 - Acunetix Trial -- 漏洞扫描
 - Http Logs Viewer -- Log分析
+- SRM 供应商关系管理 https://srm.51qqt.com/?renqun_youhua=2283252&bd_vid=11747486621602596710
 - WinMTR -- 网络诊断工具
 - 飞书、腾讯会议、zoom、teams -- 团队协作软件
+- vmware https://www.vmware.com/
+- 支付宝支付 https://www.alipay.com/
+- 快递鸟 api https://www.kdniao.com/
+- 发行说明查 https://en.wikipedia.org/wiki/Laravel
+- showdoc 技术文档工具 https://www.showdoc.com.cn/
+- drupal https://www.daweibro.com/node/294
+- wordpress https://cn.wordpress.org/plugins/woocommerce/
 - EdrawMind、XMind ZEN -- 思维导图
 - 亿图图示 -- 架构图工具
 - FortiClient -- VPN
@@ -16,10 +40,12 @@
 - LDAPSoft Ldap Browser -- LDAP查看器
 - 7z -- 压缩工具
 - ShowDoc --- API 文档写作
+- ssl证书测试 https://www.ssllabs.com/
 - PHPStorm -- PHP IDE
 - sublime -- 文本编辑器
 - vscode -- 微软的开源代码编辑器
 - Notepad++ -- 轻量编辑工具
+- 鸟哥私房菜 https://linux.vbird.org/
 - Composer -- php包管理器 https://www.phpcomposer.com/
 - Gitlab -- 基于Git的仓库管理系统
 - Jumpserver -- 跳板机
@@ -29,6 +55,7 @@
 - Workbench --  Mysql数据库建模工具 https://dev.mysql.com/downloads/workbench/  
 - 傲软录屏 -- 录屏软件
 - Laracasts -- laravel之家 https://laracasts.com/
+- mindmaster -- 思维导图软件 https://www.mindmaster.io/
 - Fiddler -- 抓包工具
 - Git --  版本控制工具 https://git-scm.com/
 - Npm -- node包管理器 https://www.npmjs.com.cn/
@@ -36,8 +63,22 @@
 - cortex -- 跟踪工具 https://www.paloaltonetworks.cn/cortex
 - rapid7 -- 安全工具 https://www.binqsoft.com/solutions/rapid7
 - wikipedia -- 查发布 https://en.wikipedia.org/wiki/Laravel
+- automationanywhere -- 机器人流程自动化 www.automationanywhere.cn/
+- docker官方镜像站 https://hub.docker.com/
+- sql审计工具 https://archerydms.com/installation/docker/
+- CRM 销帮帮 -- https://www.xbongbong.com/
+- magento中文网 https://www.magento.cn/   https://www.magentochina.org/ https://doc.magentochina.org/ https://www.magentoued.com/magento-video.html https://www.mallol.cn/
+-  微分销 分销系统 https://www.wifenxiao.com/
 - zabbix -- 网络监视管理系统 server端C语言，web管理端php
 - ![image](https://user-images.githubusercontent.com/21279002/184791070-b29e1d87-15a1-4bc5-baee-e32dcddeb2eb.png)
-
-
-
+- 豪卓 公司用 开源日志分析系统 性能监控工具 好！！！ https://www.manageengine.cn/ https://www.manageengine.cn/products/applications_manager/postgresql-performance-monitoring.html
+- docker 桌面 https://docs.docker.com/desktop/
+- 天眼查 查看企业信息 https://www.tianyancha.com/advance/search
+- ORM 框架 https://www.apicloud.com/blogDetails/8766
+- MacOS 软件包管理器homebrew https://brew.sh/
+- GUI gitUI for windows and MacOS https://www.sourcetreeapp.com/
+- Mysql 手册 https://dev.mysql.com/doc/refman/5.7/en/
+- 生成指定尺寸随机图片 地址 https://placeimg.com/
+- 办公文档资料下载 https://max.book118.com/
+- sql渗透注入工具 https://sqlmap.org/
+- 
