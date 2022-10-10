@@ -1,6 +1,6 @@
 - FinalShell -- SSH 客户端
 - Putty -- SSH 客户端
-- golang 资料站 https://studygolang.com/ https://golangtc.com/ http://docscn.studygolang.com/doc/ https://topgoer.com/ https://golang.google.cn/ref/spec
+- golang 资料站 https://studygolang.com/pkgdoc （标准库文档）https://go.dev/（官网）  https://golangtc.com/ http://docscn.studygolang.com/doc/ https://topgoer.com/ https://golang.google.cn/ref/spec
 - 微软form https://www.office.com/launch/forms?auth=2
 - powerautomate -- 微软低代码 https://www.microsoft.com/zh-cn/cloudproductivity/powerplatform/powerautomate.aspx
 - azure文档 https://learn.microsoft.com/en-us/azure/azure-functions/
