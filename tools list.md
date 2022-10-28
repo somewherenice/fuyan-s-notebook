@@ -1,3 +1,4 @@
+- ice规则引擎 http://waitmoon.com/zh/ https://github.com/zjn-zjn/ice
 - https://www.json.cn/ json测试和数据转换
 - FinalShell -- SSH 客户端
 - Putty -- SSH 客户端
