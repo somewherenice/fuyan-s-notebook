@@ -1,3 +1,6 @@
+- wamp https://sourceforge.net/projects/wamp/
+- 宝塔 https://www.bt.cn/Download/btsoftlinux.html
+- phpstudy.小皮 https://www.xp.cn/download.html
 - ice规则引擎 http://waitmoon.com/zh/ https://github.com/zjn-zjn/ice
 - https://www.json.cn/ json测试和数据转换
 - FinalShell -- SSH 客户端
