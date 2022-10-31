@@ -1,4 +1,5 @@
-- composer php包管理 https://www.phpcomposer.com/
+- composer php包管理 https://www.phpcomposer.com/  https://getcomposer.org
+- nodejs https://nodejs.org/en/
 - wamp https://sourceforge.net/projects/wamp/
 - 宝塔 https://www.bt.cn/Download/btsoftlinux.html
 - phpstudy.小皮 https://www.xp.cn/download.html
