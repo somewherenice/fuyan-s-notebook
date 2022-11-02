@@ -1,4 +1,4 @@
-- devops 工具 https://devops.com/
+- devops  https://devops.com/
 - composer php包管理 https://www.phpcomposer.com/  https://getcomposer.org
 - nodejs https://nodejs.org/en/
 - wamp https://sourceforge.net/projects/wamp/
