@@ -144,3 +144,9 @@
 - web安全大学 https://portswigger.net/web-security
 - 前端检测兼容性等 caniuse.com   
 - windows操作系统等资源站 https://msdn.itellyou.cn
+- 腾讯云快速入门文档 https://cloud.tencent.com/guide/quickstart
+- 腾讯云私有网络 https://cloud.tencent.com/document/product/215/20096
+- 一站式多云管理及多云安全 https://www.anhengcloud.com/solution/cmpsecurity/
+- PMP专家解析	http://www.hellokittycn.com
+- 开源数据和体验管理平台 https://pimcore.com/en
+- Qualys Enterprise https://cdn2.hubspot.net/hubfs/2353984/KnowledgeBase%20Attachments/Area9%20Vulnerability%20Report_Anon.pdf
