@@ -80,7 +80,7 @@
 -  微分销 分销系统 https://www.wifenxiao.com/
 - zabbix -- 网络监视管理系统 server端C语言，web管理端php
 - ![image](https://user-images.githubusercontent.com/21279002/184791070-b29e1d87-15a1-4bc5-baee-e32dcddeb2eb.png)
-- 豪卓 公司用 开源日志分析系统 性能监控工具 好！！！ https://www.manageengine.cn/ https://www.manageengine.cn/products/applications_manager/postgresql-performance-monitoring.html
+- 豪卓 公司用 开源![image](https://user-images.githubusercontent.com/21279002/218920900-3e82f968-4490-4a03-92cc-a778dd4215f1.png)分析系统 性能监控工具 好！！！ https://www.manageengine.cn/ https://www.manageengine.cn/products/applications_manager/postgresql-performance-monitoring.html
 - docker 桌面 https://docs.docker.com/desktop/
 - 天眼查 查看企业信息 https://www.tianyancha.com/advance/search
 - ORM 框架 https://www.apicloud.com/blogDetails/8766
@@ -90,4 +90,57 @@
 - 生成指定尺寸随机图片 地址 https://placeimg.com/
 - 办公文档资料下载 https://max.book118.com/
 - sql渗透注入工具 https://sqlmap.org/
-- 
+- 免费可商用插画库/图库 Open_peeps  https://www.logosc.cn/so/
+- PPT 工具 Islide
+- 文字生成Gif https://snackthis.co/create/1/
+- 文字提取 http://online.easyscreenocr.com/ZH
+- 网络排查工具 ping,tracert,nslookup,mtr(ping 和 traceroute 合并)
+- 英语学习 https://www.oxfordonlineenglish.com/
+- 禅道（项目管理） https://www.zentao.net/
+- Acunetix | Web应用程序安全扫描程序 https://www.acunetix.com/
+- 华为云漏洞扫描 https://console.huaweicloud.com/vss/
+- SSL Checker https://www.sslshopper.com/ssl-checker.html
+- Qualys SSL实验室 https://www.ssllabs.com/
+- 证书检测 https://myssl.com/
+- 证书解码器 https://www.sslshopper.com/certificate-decoder.html
+- PDF转PPT https://speedpdf.com/en/convert/pdf-to-ppt
+- 6秒情商 https://www.6seconds.org/
+- 墨刀 在线原型设计 https://org.modao.cc/
+- Swoole4 文档 https://wiki.swoole.com/#/
+- Swoole文档 https://www.kancloud.cn/oydm360782/swoole
+- 企业级研发管理工具 https://ones.ai/
+- OneAPM性能大师 https://www.oneapm.com/
+- 爱莫流程图 https://www.apowersoft.com.cn/flowchart
+- WEB应用部落 https://baiyue.one/
+- 六西格玛课件 https://www.docin.com/p-2121485639.html
+- Linux就应该这么学 https://www.linuxprobe.com/
+- 渗透测试、反向开发 https://www.synacktiv.com/
+- 人工智能专区 https://marketplace.huaweicloud.com/markets/ai/gallery.html
+- HTTP2 等支持测试工具 https://cdnsun.com/knowledgebase/tools/
+- JumpServer使用 https://www.cnblogs.com/xiangjun555/articles/11533214.html
+- 腾讯云开发者手册 https://cloud.tencent.com/developer/devdocs
+- PowerBI文档 https://docs.microsoft.com/zh-cn/power-bi/
+- 宝塔面板 https://www.bt.cn/
+- 人力资源管理系统 https://www.cdpgroupltd.com/
+- 微软form https://forms.office.com/
+- 百度学术 https://xueshu.baidu.com/
+- 广告人 https://www.addog.vip/
+- Headless CMS https://jamstack.org/headless-cms/
+- 应用安全测试技术DAST、SAST、IAST对比分析 https://blog.csdn.net/qq_29277155/article/details/92411079
+- 运维之路 https://www.zxblinux.com/
+- API商城 https://apis.baidu.com/
+- PostHog 开源产品分析工具 https://posthog.com/docs/integrate/server/php
+- 面向开发人员的技术堆栈协作 https://stackshare.io/
+- IDC 市场情报 https://www.idc.com/
+- 互联网数据中心 https://baike.baidu.com/item/%E4%BA%92%E8%81%94%E7%BD%91%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83/8471124?fromtitle=IDC&fromid=53156&fr=aladdin
+- 微软开发者中心 https://developer.microsoft.com/zh-cn/
+- FineReport报表软件 http://www.fanruansem.com/finereport/prooduct?utm_source=ad&utm_medium=bdtg&utm_campaign=fr-baobiao&utm_term=prooduct
+- TABLEAU https://www.tableau.com/zh-cn/trial/tableau-software?utm_campaign_id=2017049&utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Baidu&utm_language=CN&utm_country=GrCHINA-CN&kw=tableau&adgroup=em-brand-central-S&ag_kwid=17202-3-f1226bd39f268774.d596c98ecb05d96b
+- 证书,TLS,SSL安全评估报告 https://myssl.com/
+- 谷歌开发者 https://developers.google.com/web/tools/chrome-devtools
+- PHP集成环境 http://www.todo.link/
+- laravel-gitscrum 开发团队管理工具 https://gitee.com/creno/laravel-gitscrum?_from=gitee_search
+- Snipe-IT IT 资产管理系统 https://snipe-it.readme.io/docs/introduction
+- web安全大学 https://portswigger.net/web-security
+- 前端检测兼容性等 caniuse.com   
+- windows操作系统等资源站 https://msdn.itellyou.cn
