@@ -1,3 +1,4 @@
+- 开源PHP企业微信管理系统！ https://gitee.com/mochat/mochat 
 - redis http://redisdoc.com/
 - devops  https://devops.com/
 - composer php包管理 https://www.phpcomposer.com/  https://getcomposer.org
