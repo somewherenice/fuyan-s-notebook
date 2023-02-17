@@ -78,6 +78,7 @@
 - sql审计工具 https://archerydms.com/installation/docker/
 - CRM 销帮帮 -- https://www.xbongbong.com/
 - magento中文网 https://www.magento.cn/   https://www.magentochina.org/ https://doc.magentochina.org/ https://www.magentoued.com/magento-video.html https://www.mallol.cn/ https://business.adobe.com/cn/products/magento/magento-commerce.html
+- magento2 认证 https://bbs.mallol.cn/question/magento2-developer-certification-test/
 -  微分销 分销系统 https://www.wifenxiao.com/
 - zabbix -- 网络监视管理系统 server端C语言，web管理端php
 - ![image](https://user-images.githubusercontent.com/21279002/184791070-b29e1d87-15a1-4bc5-baee-e32dcddeb2eb.png)
