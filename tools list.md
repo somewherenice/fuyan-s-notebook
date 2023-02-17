@@ -152,4 +152,4 @@
 - 开源数据和体验管理平台 https://pimcore.com/en
 - Qualys Enterprise https://cdn2.hubspot.net/hubfs/2353984/KnowledgeBase%20Attachments/Area9%20Vulnerability%20Report_Anon.pdf
 - PHP 工作流引擎 https://gitee.com/ntdgg/tpflow?_from=gitee_search
-- csp策略验证 cspvalidator.org
+- CSP 策略验证和策略布置 https://cspvalidator.org/ https://content-security-policy.com/
