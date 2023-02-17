@@ -154,3 +154,4 @@
 - Qualys Enterprise https://cdn2.hubspot.net/hubfs/2353984/KnowledgeBase%20Attachments/Area9%20Vulnerability%20Report_Anon.pdf
 - PHP 工作流引擎 https://gitee.com/ntdgg/tpflow?_from=gitee_search
 - CSP 策略验证和策略布置 https://cspvalidator.org/ https://content-security-policy.com/
+- IT技术速查手册 http://www.17bigdata.com/book/
