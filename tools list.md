@@ -1,4 +1,6 @@
-- magento论坛查答案 https://magento.stackexchange.com/
+
+- 站长+开发者工具箱 https://tool.4xseo.com/
+- magento论坛 https://magento.stackexchange.com/
 - 开源PHP企业微信管理系统！ https://gitee.com/mochat/mochat 
 - redis http://redisdoc.com/
 - devops  https://devops.com/
