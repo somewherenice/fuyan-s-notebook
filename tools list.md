@@ -3,7 +3,7 @@
 - similarweb网站排名流量等分析工具 http://www.zhanlian.net/sites/5583.html
 - 站长+开发者工具箱 https://tool.4xseo.com/
 - magento论坛 https://magento.stackexchange.com/ https://community.magento.com/ https://digitalstartup.co.uk/
-- magento 官方教程 https://developer.adobe.com/commerce/docs/ https://developer.adobe.com/commerce/php/
+- magento2 官方教程 https://devdocs.magento.com/ https://developer.adobe.com/commerce/docs/ https://developer.adobe.com/commerce/php/
 - 开源PHP企业微信管理系统！ https://gitee.com/mochat/mochat 
 - redis http://redisdoc.com/
 - devops  https://devops.com/
