@@ -1,4 +1,5 @@
 
+- token有效性验证 https://jwt.io/
 - 事件日历订阅API https://www.addevent.com/ 
 - similarweb网站排名流量等分析工具 http://www.zhanlian.net/sites/5583.html
 - 站长+开发者工具箱 https://tool.4xseo.com/
