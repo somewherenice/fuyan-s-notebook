@@ -1,4 +1,4 @@
-
+- php开发标准 https://www.php-fig.org/psr/psr-4/
 - token有效性验证 https://jwt.io/
 - 事件日历订阅API https://www.addevent.com/ 
 - similarweb网站排名流量等分析工具 http://www.zhanlian.net/sites/5583.html
