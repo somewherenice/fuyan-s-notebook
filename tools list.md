@@ -5,6 +5,20 @@
 - similarweb网站排名流量等分析工具 http://www.zhanlian.net/sites/5583.html
 - 站长+开发者工具箱 https://tool.4xseo.com/
 - magento 教程 https://www.amitbera.com/
+- magento 视频教程汇总
+-   Magento2 Video Tutorials
+https://devdocs.magento.com/videos
+https://www.qandeelacademy.com/free-courses/category/magento
+https://www.youtube.com/playlist?list=PLeoWPZvrjokdF3KGMiEFuLXLIu1l2xlvd
+https://www.maximehuran.fr/en/magento-2-training-2/
+ https://www.truecodex.com/course/magento-2
+https://digitalstartup.co.uk/
+https://m.academy/
+https://m.academy/courses/
+8.https://www.ibnab.com/
+https://www.youtube.com/c/MaxPronko/videos
+
+
 - magento论坛 https://magento.stackexchange.com/ https://community.magento.com/ https://digitalstartup.co.uk/
 - https://mage2.pro/
 - magento视频教程 https://www.youtube.com/watch?v=4FYd6lRRATA&list=PL9Q0S-CmtAhJVjwnK5ip6H84sCuRQcACY&index=1
