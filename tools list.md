@@ -6,6 +6,7 @@
 - 站长+开发者工具箱 https://tool.4xseo.com/
 - magento论坛 https://magento.stackexchange.com/ https://community.magento.com/ https://digitalstartup.co.uk/
 - https://mage2.pro/
+- magento视频教程 https://www.youtube.com/watch?v=4FYd6lRRATA&list=PL9Q0S-CmtAhJVjwnK5ip6H84sCuRQcACY&index=1
 - magento2 官方教程 https://devdocs.magento.com/ https://developer.adobe.com/commerce/docs/ https://developer.adobe.com/commerce/php/
 - 开源PHP企业微信管理系统！ https://gitee.com/mochat/mochat 
 - redis http://redisdoc.com/
