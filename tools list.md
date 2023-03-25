@@ -4,6 +4,7 @@
 - 事件日历订阅API https://www.addevent.com/ 
 - similarweb网站排名流量等分析工具 http://www.zhanlian.net/sites/5583.html
 - 站长+开发者工具箱 https://tool.4xseo.com/
+- magento 教程 https://www.amitbera.com/
 - magento论坛 https://magento.stackexchange.com/ https://community.magento.com/ https://digitalstartup.co.uk/
 - https://mage2.pro/
 - magento视频教程 https://www.youtube.com/watch?v=4FYd6lRRATA&list=PL9Q0S-CmtAhJVjwnK5ip6H84sCuRQcACY&index=1
