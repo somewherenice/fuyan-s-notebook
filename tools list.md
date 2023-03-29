@@ -1,5 +1,6 @@
+- https://www.howtographql.com/basics/0-introduction/ Graphql website
 - https://docs.google.com/ 文档工具
-- -https://drive.google.com/ 文件分享
+-https://drive.google.com/ 文件分享
 - https://coding.net/ 开发团队工具
 - php开发标准 https://www.php-fig.org/psr/psr-4/
 - token有效性验证 https://jwt.io/
