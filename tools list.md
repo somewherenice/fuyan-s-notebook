@@ -36,6 +36,7 @@ https://www.youtube.com/watch?v=VF3I7RiBVEM&list=PL9Q0S-CmtAhJVjwnK5ip6H84sCuRQc
 - phpstudy.小皮 https://www.xp.cn/download.html
 - ice规则引擎 http://waitmoon.com/zh/ https://github.com/zjn-zjn/ice
 - https://www.json.cn/ json测试和数据转换
+- https://slides.com/ Slides lets you create professional slide decks and makes you look great presenting them.
 - FinalShell -- SSH 客户端
 - Putty -- SSH 客户端
 - golang 资料站 https://studygolang.com/pkgdoc （标准库文档）https://go.dev/（官网）  https://golangtc.com/ http://docscn.studygolang.com/doc/ https://topgoer.com/ https://golang.google.cn/ref/spec
