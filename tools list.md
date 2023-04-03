@@ -7,7 +7,8 @@
 - 事件日历订阅API https://www.addevent.com/ 
 - similarweb网站排名流量等分析工具 http://www.zhanlian.net/sites/5583.html
 - 站长+开发者工具箱 https://tool.4xseo.com/
-- magento 教程 https://www.amitbera.com/
+- magento 教程 https://www.amitbera.com/ 
+- https://www.astralweb.com.tw/
 - https://www.codilar.com/blog/
 - magento 视频教程汇总
 -   Magento2 Video Tutorials
