@@ -132,7 +132,7 @@ https://www.youtube.com/watch?v=VF3I7RiBVEM&list=PL9Q0S-CmtAhJVjwnK5ip6H84sCuRQc
 - 禅道（项目管理） https://www.zentao.net/
 - Acunetix | Web应用程序安全扫描程序 https://www.acunetix.com/
 - 华为云漏洞扫描 https://console.huaweicloud.com/vss/
-- SSL Checker https://www.sslshopper.com/ssl-checker.html
+- SSL Checker https://www.sslshopper.com/ssl-checker.html 公司用
 - Qualys SSL实验室 https://www.ssllabs.com/
 - 证书检测 https://myssl.com/
 - 证书解码器 https://www.sslshopper.com/certificate-decoder.html
