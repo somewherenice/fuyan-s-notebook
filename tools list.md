@@ -1,4 +1,4 @@
-Magento2 最好开源主题 https://magesuite.io/ https://github.com/magesuite
+- Magento2 最好开源主题 https://magesuite.io/ https://github.com/magesuite
 - https://www.howtographql.com/basics/0-introduction/ Graphql website
 - https://docs.google.com/ 文档工具
 -https://drive.google.com/ 文件分享
