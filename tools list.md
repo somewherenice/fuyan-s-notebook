@@ -1,3 +1,4 @@
+- 通用看板软件 Worktile
 - 软件开发项目看板 PingCode (企业免费25人，个人版)
 - 数据库大全 接口大全 项目管理 https://open.yesapi.cn/list.html http://hn216.api.yesapi.cn/docs.php https://www.yesdev.cn/platform/taskborad/index?group_type=2
 - Magento2 最好开源主题 https://magesuite.io/ https://github.com/magesuite
