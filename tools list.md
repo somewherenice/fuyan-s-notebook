@@ -65,7 +65,7 @@ https://www.youtube.com/watch?v=VF3I7RiBVEM&list=PL9Q0S-CmtAhJVjwnK5ip6H84sCuRQc
 - 远程办公控制软件 https://www.teamviewer.cn/cn/
 - 内网通 -- 文件传输
 - Postman --Api调试工具
-- builtwith https://builtwith.com/
+- builtwith https://builtwith.com/ https://pro.builtwith.com/
 - 系统架构师考试资料 https://github.com/xxlllq/system_architect
 - ApowerREC --录屏
 - Acunetix Trial -- 漏洞扫描
