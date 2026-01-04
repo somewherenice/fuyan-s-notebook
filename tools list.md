@@ -1,4 +1,6 @@
-
+- https://owasp.org/Top10/2025/ 安全规范
+- https://www.iconfont.cn/collections/detail?cid=18309 矢量图标库
+- https://tabler.io/admin-template 前端ui库
 - Wappalyzer 浏览器扩展，用于识别网站所用的技术栈，包括Web服务器、内容管理系统、编程语言、JavaScript库和框架等。Wappalyzer支持多种浏览器，并且可以在不同操作系统上运行，使用起来非常方便。
 - 通用看板软件 Worktile
 - 软件开发项目看板 PingCode (企业免费25人，个人版)
